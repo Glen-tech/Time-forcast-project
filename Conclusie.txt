@@ -1,0 +1,8 @@
+Door een technische mankement in een bepaalde bibliotheek precies heb ik de fpprophet model niet kunnen testen op accuratie
+
+
+Aan de hand van de metrices van de modellen zien we dat de fb prophet het minst accurate model is.
+
+De ARIMA is veel accurater dan de fb prophet maar kan toch niet tippen aan de LSTM en RNN modellen dat bijna gelijkend met elkaar zijn.
+
+De RNN model van deze 4 is het meest accurate model.
