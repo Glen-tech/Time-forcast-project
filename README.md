@@ -1,2 +1,2 @@
 # Time-forcast-project
-Time forcast project for smart system PXL-Digital
+Time forcast project for the class smart system from pba Elektronics-ICT @ PXL-Digital
